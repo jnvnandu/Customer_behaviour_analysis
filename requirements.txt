@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+plotly
+sklearn
+numpy
+datetime
+streamlit
+joblib
